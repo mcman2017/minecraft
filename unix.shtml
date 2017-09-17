@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+
+<title>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples</title>
+
+<meta name="description" content="Free tutorials and UNIX code examples.  grep, vi, awk, find, sort, uniq, tips, tricks, LINUX, UBUNTU, html, web server">
+<meta name="keywords" content="tutorial, code examples, rep, vi, awk, find, sort, uniq, tips, tricks, LINUX, UBUNTU, html, web server">
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" media="all" href="styles.css">
+<link rel="stylesheet" type="text/css" href="tswnavbar.css" >
+
+
+</head>
+
+<body>
+
+<div id="container">
+	<div id="header">
+	<!-- start of header section: insert your logo, etc, here -->
+
+	<p>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples. </p>
+
+	<!-- end of header section: insert your logo, etc, above this line -->
+	</div>
+
+<div id="content">
+<div id="contproper">
+	<!-- start of content column: insert your content here -->
+
+	<h1>Welcome</h1>
+<p>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples. </p>
+	
+		<h3> What's new:</h3>
+
+    <p>	<a href="awk-nawk.shtml">UNIX awk-nawk code examples</a></p>
+	<p>Enjoy!</p>
+	
+
+	<p>&nbsp;</p>
+
+	<!-- end of content column: put your content above this line -->
+	</div>
+	</div>
+
+<div id="navbar">
+<div id="navbarproper">
+	<!-- start of side column: insert your navigation menu, etc, here -->
+
+
+	<div id="tswcssbuttons">
+<ul>
+<li><a href="unix.shtml">Home</a></li>
+<li><a href="about-us.shtml">About UNIX me</a></li>
+<li><a href="contact-us.shtml">Contact Us</a></li>
+<li><a href="site-map.shtml">Site Map</a></li>
+<li><br></li>
+<li><a href="awk-nawk.shtml">awk-nawk</a></li>
+<li><a href="backticks.shtml">backticks</a></li>
+
+</ul>
+</div>
+
+
+	<!-- end of side column: put your navigation menu, etc, above this line -->
+	</div>
+	</div>
+
+	<div id="footer">
+	<!-- start of footer section: insert your copyright notice, etc, here -->
+
+	<p>
+
+	&copy; 
+	<?php 
+$copyYear = 2008; 
+$curYear = date('Y'); 
+echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : '  ');
+                     ?>
+					 &nbsp
+Me, Inc.
+
+	</p>
+
+	<!-- end of footer section: insert your copyright notice, etc, above this line -->
+	</div>
+
+
+ </div>
+
+</body>
+
+</html>

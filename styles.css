@@ -1,0 +1,45 @@
+body {
+	font-family: Arial, Helvetica, sans-serif ;
+}
+img {
+	max-width: 100% ;
+	width: auto ;
+	height: auto ;
+}
+
+div#content {
+position:relative;
+width: 70% ;
+  float: right ;
+
+}
+div#navbar {
+position:relative;
+width: 30% ;
+  float: left;
+
+}
+div#footer {
+  clear: both ;
+  text-align: center ;
+}
+
+.boxed {
+  border: 2px solid blue ;
+}
+
+@media only screen and (max-width: 629px) {
+	div#navbar {
+		float: none ;
+		width: 100% ;
+	}
+	div#content {
+		float: none ;
+		width: 100% ;
+	}
+}
+
+div#contproper, div#navbarproper {
+	padding-left: 5px ;
+	padding-right: 5px ;
+}

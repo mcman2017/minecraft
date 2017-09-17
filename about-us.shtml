@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+
+<title>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples</title>
+
+<meta name="description" content="Free tutorials and UNIX code examples.  grep, vi, awk, find, sort, uniq, tips, tricks, LINUX, UBUNTU, html, web server">
+<meta name="keywords" content="tutorial, code examples, rep, vi, awk, find, sort, uniq, tips, tricks, LINUX, UBUNTU, html, web server">
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" media="all" href="styles.css">
+<link rel="stylesheet" type="text/css" href="tswnavbar.css" >
+
+
+</head>
+
+<body>
+
+<div id="container">
+	<div id="header">
+	<!-- start of header section: insert your logo, etc, here -->
+
+	<p>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples.</p>
+
+
+	<!-- end of header section: insert your logo, etc, above this line -->
+	</div>
+
+<div id="content">
+<div id="contproper">
+	<!-- start of content column: insert your content here -->
+
+	<h1>About UNIX me</h1>
+	
+	    <p> I use SOLARIS UNIX at work, which is now distributed by ORACLE.  It's a great, stable Enterprise version, but is missing some of the neat commands of LINUX/Debian/UBUNTU.
+	</p>
+	<p> I am a pure UBUNTU person at home.  This is where I run my webserver and my other projects. </p>
+	<p> I really like how easy it is to get, install and update on UBUNTU.  It helps that I have root access on UBUNTU and understandable
+	 why I would not have root access at work in a production environment  --  you can't have a production environment opened up for any type of executable content.</p>
+	
+	<p> I will be adding content in the weeks to come.  I will attempt to build an ad-free UNIX and webserver guide. </p>
+	
+	<p>
+	Enjoy!
+	</p>
+
+	<!-- end of content column: put your content above this line -->
+	</div>
+	</div>
+
+<!--#include virtual="navbarandfooter.html" -->
+</body>
+
+</html>

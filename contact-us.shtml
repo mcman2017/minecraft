@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+
+<title>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples</title>
+
+<meta name="description" content="Free tutorials and UNIX code examples.  grep, vi, awk, find, sort, uniq, tips, tricks, LINUX, UBUNTU, html, web server">
+<meta name="keywords" content="tutorial, code examples, rep, vi, awk, find, sort, uniq, tips, tricks, LINUX, UBUNTU, html, web server">
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" media="all" href="styles.css">
+<link rel="stylesheet" type="text/css" href="tswnavbar.css" >
+
+
+</head>
+
+<body>
+
+<div id="container">
+	<div id="header">
+	<!-- start of header section: insert your logo, etc, here -->
+
+	<p>UNIX, grep, vi, awk, find, sort, uniq, tips, tricks and code examples.</p>
+
+
+	<!-- end of header section: insert your logo, etc, above this line -->
+	</div>
+
+<div id="content">
+<div id="contproper">
+	<!-- start of content column: insert your content here -->
+
+	<h1>Contact Us</h1>
+	
+<form action="feedback.php" method="post" id="tswfbform" accept-charset="UTF-8">
+<label for="tswname">Name</label> <input type="text" name="fullname" style="max-width: 100%;" id="tswname" size="39" /><br />&nbsp;<br />
+<label for="tswemail">Email</label> <input type="text" style="max-width: 100%;" id="tswemail" name="email" size="39" /><br />&nbsp;<br />
+<label for="tswcomments">Comments</label><br />&nbsp;<br />
+<textarea rows="15" cols="45" name="comments" style="max-width: 100%;" id="tswcomments"></textarea>
+<br />&nbsp;<br />
+	<input id="tswsubmit" type="submit" value="Send Feedback" />
+</form>
+
+
+<!**  Page content goes here in p(aragrpah) form **->
+	
+  <p>  Feel free to post a UNIX question.  I may email you back with a solution or post to the site.</p>
+  <p> I am thinking of offering a paid solution service.  Post a question for a fee and get a solution. </p>
+  <p>  Let me know what you think about these ideas or anything else on this site. </p><br>	
+	<p>Enjoy!</p>
+	
+	
+	<!-- end of content column: put your content above this line -->
+	</div>
+	</div>
+
+<!--#include virtual="navbarandfooter.html" -->
+</body>
+
+</html>
