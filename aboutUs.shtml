@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+
+<title>Liam's Minecraft, Clash Royal, Clash of Clans and slither.io tips, tricks and stragegy guide.</title>
+
+<meta name="description" content="Free tutorials and strategy guides on popular online games. minecraft, slither.io, Clash Royal, Clash of Clans">
+<meta name="keywords" content="online games, strategy, tutorials, guide, minecraft, slither.io, Clash Royal, Clash of Clans, free">
+<meta name="author" content="Liam ME">
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" media="all" href="styles.css">
+<link rel="stylesheet" type="text/css" href="tswnavbar.css">
+
+
+</head>
+
+<body>
+
+<div id="container">
+	<div id="header">
+	<!-- start of header section: insert your logo, etc, here -->
+
+	<p> Liam's Minecraft, Clash Royal, Clash of Clans and slither.io tips tricks and stragegy. </p>
+
+
+
+
+	<!-- end of header section: insert your logo, etc, above this line -->
+	</div>
+
+<div id="content">
+<div id="contproper">
+	<!-- start of content column: insert your content here -->
+
+	<h1>About us</h1>
+
+	<p> Hi, I'm Liam.  My favorite TV show is Gravity Falls.  A lot
+	of weird things happen in the show and there's a big mystery that lasts
+	the entire season.  The
+	creator of the show also put in a ton of backward messages.  Hmmm, I
+	think my next page here will be on Gravity Falls.</p>
+	<p> Leave a comment on my Contact Us page  --  especially is you're in
+	my class. </p>
+	<p>  Talk to you soon!</p>
+<!**  Page content goes here in p(aragrpah) form **->
+
+
+	<p>
+	Enjoy!
+	</p>
+
+
+	<!-- end of content column: put your content above this line -->
+	</div>
+	</div>
+
+<!--#include virtual="navbarandfooter.html" -->
+
+</body>
+
+</html>
