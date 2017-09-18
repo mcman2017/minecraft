@@ -30,7 +30,7 @@
 <div id="content">
 <div id="contproper">
 	<!-- start of content column: insert your content here -->
-     
+
 	<!--Name of page goes below in h1 section-->
 	<h1>Minecraft  Tips</h1>
 	<ol>
@@ -42,60 +42,20 @@
 	<li> Make a bucket and put water in it.  Pour this over the lava and you will make obsidian.  Only a diamond pick axe can break the obsidian.<br><br></li>
      </ol>
 	<br>
+	<p> Watch me livestream play minecraft right here: </p>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/EDHe-OKGoi4" frameborder="0" allowfullscreen></iframe>
+	<P> And here </P>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/WrOCxTrYj1w" frameborder="0" allowfullscreen></iframe>
 	 <p> Enjoy! </p>
-	
-	
+
+
 	<p>&nbsp;</p>
 
 	<!-- end of content column: put your content above this line -->
 	</div>
 	</div>
 
-<div id="navbar">
-<div id="navbarproper">
-	<!-- start of side column: insert your navigation menu, etc, here -->
-
-	<div id="tswcssbuttons">
-<ul>
-<li><a href="kid.html">Home</a></li>
-<li><a href="aboutUs.html">About Liam</a></li>
-<li><a href="contactUs.html">Contact Us</a></li>
-<li><a href="siteMap.html">Site Map</a></li>
-<li><br></li>
-<li><a href="minecraft.html">Minecraft</a></li>
-<li><a href="clashroyal.html">Clash Royal</a></li>
-<li><a href="slither.html">slither.io</a></li>
-<li><a href="clashclans.html">Clash of Clans</a></li>
-</ul>
-</div>
-
-
-	<!-- end of side column: put your navigation menu, etc, above this line -->
-
-	</div>
-	</div>
-	
-<div id="footer">
-	<!-- start of footer section: insert your copyright notice, etc, here -->
-
-	<p>
-
-	&copy; 
-	<?php 
-$copyYear = 2008; 
-$curYear = date('Y'); 
-echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : '  ');
-                     ?>
-					 &nbsp
-Me, Inc.
-
-	</p>
-
-	<!-- end of footer section: insert your copyright notice, etc, above this line -->
-	</div>
-
-
- </div>
+<!--#include virtual="navbarandfooter.html" -->
 
 </body>
 

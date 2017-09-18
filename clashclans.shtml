@@ -29,12 +29,11 @@
 	</div>
 
 <div id="content">
-<div id="contproper">
 	<!-- start of content column: insert your content here -->
-     
+
 	<!--Name of page goes below in h1 section-->
 	<h1> Clash of Clans </h1>
-	
+
 	<p> [Guest post]  I loved this game right away when I downloaded it 4 years ago.  The beginning of the game is very exciting, with the
          narrator telling you what to do next.  Here are some mistakes I made at the beginning that you can avoid.  With the new village
         that is available across the sea, I am planning on following the below tips in the new sea village.		 </p>
@@ -53,7 +52,7 @@
 	<li> Don't buy decorations:  they take away coins from buying defences and armies. <br><br></li>
 	<li>  I really like the new sea village that is available.  It gives everyone a chance to start at the exciting beginning of the game again.<br><br></li>
 	 </ol>
-	 
+
 
 	<p>
 	Enjoy!
@@ -64,50 +63,7 @@
 	</div>
 	</div>
 
-<div id="navbar">
-<div id="navbarproper">
-	<!-- start of side column: insert your navigation menu, etc, here -->
-
-	<div id="tswcssbuttons">
-<ul>
-<li><a href="kid.html">Home</a></li>
-<li><a href="aboutUs.html">About Liam</a></li>
-<li><a href="contactUs.html">Contact Us</a></li>
-<li><a href="siteMap.html">Site Map</a></li>
-<li><br></li>
-<li><a href="minecraft.html">Minecraft</a></li>
-<li><a href="clashroyal.html">Clash Royal</a></li>
-<li><a href="slither.html">slither.io</a></li>
-<li><a href="clashclans.html">Clash of Clans</a></li>
-</ul>
-</div>
-
-
-	<!-- end of side column: put your navigation menu, etc, above this line -->
-	</div>
-	</div>
-
-<div id="footer">
-	<!-- start of footer section: insert your copyright notice, etc, here -->
-
-	<p>
-
-	&copy; 
-	<?php 
-$copyYear = 2008; 
-$curYear = date('Y'); 
-echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : '  ');
-                     ?>
-					 &nbsp
-Me, Inc.
-
-	</p>
-
-	<!-- end of footer section: insert your copyright notice, etc, above this line -->
-	</div>
-
-
- </div>
+<!--#include virtual="navbarandfooter.html" -->
 
 </body>
 

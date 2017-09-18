@@ -33,7 +33,7 @@
 	<!-- start of content column: insert your content here -->
 
 	<h1>Contact Us</h1>
-	
+
 	<p>
 	<form action="feedback.php" method="post" id="tswfbform" accept-charset="UTF-8">
 		<label for="tswname">Name</label> <input type="text" name="fullname" style="max-width: 100%;" id="tswname" size="39" /><br />&nbsp;<br />
@@ -48,7 +48,7 @@
   <p> Anyone in my class, please leave me a comment.  We can keep in touch over the summer. </p>
   <p> It would be neat to hear from anyone in the school or that I know.</p>
   <p>  I'll email you back.  Let me know what you think of my site </p>
-  <p> and any suggestions you have. </p>  
+  <p> and any suggestions you have. </p>
 
 	<p>
 	Enjoy!
@@ -58,51 +58,8 @@
 	<!-- end of content column: put your content above this line -->
 	</div>
 	</div>
-	
-<div id="navbar">
-<div id="navbarproper">
-	<!-- start of side column: insert your navigation menu, etc, here -->
 
-	<div id="tswcssbuttons">
-<ul>
-<li><a href="kid.html">Home</a></li>
-<li><a href="aboutUs.html">About Liam</a></li>
-<li><a href="contactUs.html">Contact Liam</a></li>
-<li><a href="siteMap.html">Site Map</a></li>
-<li><br></li>
-<li><a href="minecraft.html">Minecraft</a></li>
-<li><a href="clashroyal.html">Clash Royal</a></li>
-<li><a href="slither.html">slither.io</a></li>
-<li><a href="clashclans.html">Clash of Clans</a></li>
-</ul>
-</div>
-
-
-	<!-- end of side column: put your navigation menu, etc, above this line -->
-	</div>
-	</div>
-	
-<div id="footer">
-	<!-- start of footer section: insert your copyright notice, etc, here -->
-
-	<p>
-
-	&copy; 
-	<?php 
-$copyYear = 2008; 
-$curYear = date('Y'); 
-echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : '  ');
-                     ?>
-					 &nbsp
-Me, Inc.
-
-	</p>
-
-	<!-- end of footer section: insert your copyright notice, etc, above this line -->
-	</div>
-
-
- </div>
+<!--#include virtual="navbarandfooter.html" -->
 
 </body>
 

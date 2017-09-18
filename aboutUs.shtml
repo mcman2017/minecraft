@@ -23,8 +23,8 @@
 	<!-- start of header section: insert your logo, etc, here -->
 
 	<p> Liam's Minecraft, Clash Royal, Clash of Clans and slither.io tips tricks and stragegy. </p>
-	
-	
+
+
 
 
 	<!-- end of header section: insert your logo, etc, above this line -->
@@ -35,17 +35,17 @@
 	<!-- start of content column: insert your content here -->
 
 	<h1>About us</h1>
-	
+
 	<p> Hi, I'm Liam.  My favorite TV show is Gravity Falls.  A lot
 	of weird things happen in the show and there's a big mystery that lasts
-	the entire season.  The 
-	creator of the show also put in a ton of backward messages.  Hmmm, I 
+	the entire season.  The
+	creator of the show also put in a ton of backward messages.  Hmmm, I
 	think my next page here will be on Gravity Falls.</p>
 	<p> Leave a comment on my Contact Us page  --  especially is you're in
 	my class. </p>
 	<p>  Talk to you soon!</p>
 <!**  Page content goes here in p(aragrpah) form **->
-	
+
 
 	<p>
 	Enjoy!
@@ -55,52 +55,8 @@
 	<!-- end of content column: put your content above this line -->
 	</div>
 	</div>
-	
-<div id="navbar">
-<div id="navbarproper">
-	<!-- start of side column: insert your navigation menu, etc, here -->
 
-
-	<div id="tswcssbuttons">
-<ul>
-<li><a href="kid.html">Home</a></li>
-<li><a href="aboutUs.html">About Liam</a></li>
-<li><a href="contactUs.html">Contact Us</a></li>
-<li><a href="siteMap.html">Site Map</a></li>
-<li><br></li>
-<li><a href="minecraft.html">Minecraft</a></li>
-<li><a href="clashroyal.html">Clash Royal</a></li>
-<li><a href="slither.html">slither.io</a></li>
-<li><a href="clashclans.html">Clash of Clans</a></li>
-</ul>
-</div>
-
-
-	<!-- end of side column: put your navigation menu, etc, above this line -->
-	</div>
-	</div>
-
-<div id="footer">
-	<!-- start of footer section: insert your copyright notice, etc, here -->
-
-	<p>
-
-	&copy; 
-	<?php 
-$copyYear = 2008; 
-$curYear = date('Y'); 
-echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : '  ');
-                     ?>
-					 &nbsp
-Me, Inc.
-
-	</p>
-
-	<!-- end of footer section: insert your copyright notice, etc, above this line -->
-	</div>
-
-
- </div>
+<!--#include virtual="navbarandfooter.html" -->
 
 </body>
 
