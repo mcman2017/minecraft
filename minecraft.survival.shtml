@@ -17,7 +17,6 @@
 
 <body>
 
-<div id="container">
 	<div id="header">
 	<!-- start of header section: insert your logo, etc, here -->
 
@@ -28,10 +27,58 @@
 
 <div id="content">
 <div id="contproper">
+
 	<!-- start of content column: insert your content here -->
 
 	<!--Name of page goes below in h1 section-->
 	<h1>Minecraft  in Survival mode Tutorial</h1>
+
+	<p> Minecraft isn't a game of just skill, luck also plays a part.  Here
+		I will tell you how to actually play the game </p>
+		<p>  The first thing you need to do when playing in survival mode
+  is get some wood.  You get it by holding it down.  Once it is removed
+from the screen, look for it in your inventory.  If it is not there, get
+closer to the wood and hold it down.  From your inventory, put the wood
+in your craft: </p>
+<p>---picture of wood in inventory and craft table  ---</p>
+<p> The wood from the inventory becomes planks.  Once you have 4
+	planks of wood, put them in each corner of your craft  --
+	and you will make a crafting table: </p>
+	<p>--picture of craft and a crafting table--<p>
+<p>  Making a crafting table is very important.  You craft only has 4 spaces,
+	but the crafting table has 9 spaces to combine ingredients.  With more spaces
+	to combine more ingredients, you will be able to make more complex items
+	that will help you later on. </p>
+	<p>  To use the crafting table you need to put it down.  But you will need to
+		build a shelter first before you put it down.  Look for three
+		sheep and two cows  --  kill them all!  Now put your crafting table down
+		and build a shelter with your remaining planks of wood.  You need a shelter
+		to protect yourself at night from monsters.  If you run out of planks,
+		get some more wood and make  more planks. Once inside your shelter,
+	you can finally put down your crafting table.</p>
+	<p>At this point, you might have noticed that you have been
+	taking damage.  When this happens, quickly eat the food you got
+by killing the sheeps and cows.  The damage you got is because
+you are hungry.</p>
+<h2>Using your crafting table</h2>
+<p> Your crafting table should look like this</p>
+<p>-------------------------------------------------------</p>
+<pre>|           |           |           |</pre>
+<pre>|           |           |           |</pre>
+<pre>|           |           |           |</pre>
+<p>-------------------------------------------------------</p>
+<pre>|           |           |           |</pre>
+<pre>|           |           |           |</pre>
+<pre>|           |           |           |</pre>
+<p>-------------------------------------------------------</p>
+<pre>|           |           |           |</pre>
+<pre>|           |           |           |</pre>
+<pre>|           |           |           |</pre>
+<p>-------------------------------------------------------</p>
+<p>If you see a cave, quickly collect some stones and some coal.
+Coal looks like this</p>
+<p>-----picture of coal------</p>
+<p>To be continued  .....</p>
 
   <p> Enjoy! </p>
 
